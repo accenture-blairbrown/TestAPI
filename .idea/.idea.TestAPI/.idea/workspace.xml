@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="840ae65d-a199-4afa-80b8-c8b7f58dace3" name="Default Changelist" comment="" />
+    <list default="true" id="840ae65d-a199-4afa-80b8-c8b7f58dace3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestAPI/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestAPI/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestAPI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestAPI/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestAPI/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/Controllers/ValuesController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/TestAPI.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/app.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/obj/Debug/netcoreapp2.1/TestAPI.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/obj/Debug/netcoreapp2.1/TestAPI.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/obj/Debug/netcoreapp2.1/TestAPI.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/obj/Debug/netcoreapp2.1/TestAPI.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/obj/TestAPI.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/obj/TestAPI.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/obj/TestAPI.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI_UnitTests/TestAPI_UnitTests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI_UnitTests/UnitTest1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI_UnitTests/obj/Debug/netcoreapp2.1/TestAPI_UnitTests.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI_UnitTests/obj/Debug/netcoreapp2.1/TestAPI_UnitTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI_UnitTests/obj/Debug/netcoreapp2.1/TestAPI_UnitTests.Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI_UnitTests/obj/Debug/netcoreapp2.1/TestAPI_UnitTests.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI_UnitTests/obj/Debug/netcoreapp2.1/TestAPI_UnitTests.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI_UnitTests/obj/TestAPI_UnitTests.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI_UnitTests/obj/TestAPI_UnitTests.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI_UnitTests/obj/TestAPI_UnitTests.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI_UnitTests/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAPI_UnitTests/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +82,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/TestAPI_UnitTests/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestAPI/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -64,6 +103,7 @@
     <option name="width" value="1400" />
     <option name="height" value="987" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -151,12 +191,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564413456743</updated>
-      <workItem from="1564413458851" duration="263000" />
+      <workItem from="1564413458851" duration="624000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="263000" />
+    <option name="totallyTimeSpent" value="624000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -168,7 +208,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="163" y="43" width="1400" height="987" extended-state="0" />
+    <frame x="241" y="44" width="1400" height="987" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
